@@ -845,7 +845,7 @@ img { max-width: 100%; display: block; }
     max-width: none;
     margin: 0 auto 22px;
     padding: 22px 20px;
-    text-align: left;
+    text-align: center;
     font-size: 0.92rem;
     line-height: 2;
     letter-spacing: 0.02em;
@@ -923,6 +923,7 @@ img { max-width: 100%; display: block; }
     padding: 20px 18px;
     font-size: 0.88rem;
     line-height: 1.95;
+    text-align: center;
   }
   .numbers-bg {
     width: min(350px, 106%);
